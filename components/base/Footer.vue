@@ -2,7 +2,7 @@
 
 let friendChain = [
     {
-        name: '深沟导航-深沟导航_shyngo',
+        name: '深沟导航',
         url: 'http://www.shyngo.cn/',
     }
 ]
@@ -18,7 +18,7 @@ let year = new Date().getFullYear()
                 <v-chip class="ma-2" variant="text" prepend-icon="mdi-link-variant-plus">
                     友情链接:
                 </v-chip>
-                <a v-for="item in friendChain" :href="item.url" target="_blank">{{ item.name }}</a>
+                <v-chip variant="text" v-for="item in friendChain" :href="item.url" target="_blank">{{ item.name }}</v-chip>
             </div>
             <p class="copyright">COPYRIGHT 2019-{{ year }} WWW.AOE.TOP ALL RIGHT RESERVED <a
                     href="https://beian.miit.gov.cn/" target="_blank" rel="nopener norefoerrer">湘ICP备2021011453号-1</a>
