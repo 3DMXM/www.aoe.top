@@ -3,9 +3,7 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "preview": "PORT=3000 npx nuxi preview",
   },
   "devDependencies": {
     "@types/marked": "^4.0.8",
