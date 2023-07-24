@@ -19,6 +19,7 @@
     "github-markdown-css": "^5.2.0",
     "marked": "^4.2.12",
     "nprogress": "^0.2.0",
+    "nuxt-gtag": "^0.5.7",
     "pinia": "^2.0.30",
     "vuetify": "^3.1.4"
   }

@@ -10,6 +10,7 @@ export default defineNuxtConfig({
     },
     modules: [
         'nuxt-og-image',
+        "nuxt-gtag",
         [
             '@pinia/nuxt',
             {
@@ -36,5 +37,8 @@ export default defineNuxtConfig({
             language: 'zh', // prefer more explicit language codes like `en-AU` over `en`
         }
     },
+    gtag: {
+        id: 'G-L04H04RSS7'
+    }
 
 })
