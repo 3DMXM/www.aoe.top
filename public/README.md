@@ -9,6 +9,12 @@
 - 3DM Mods: https://mod.3dmgame.com/u/9688990/Home
 - Steam: https://steamcommunity.com/id/3DMXM/
 
+### 小莫全家桶
+- 小莫的博客园: https://blog.aoe.top/
+- 小莫的云网盘: https://pan.aoe.top/
+- 小莫的游戏库: https://game.aoe.top/
+- 小莫的共享盘: https://cloud.aoe.top/
+
 ### 小莫的一些作品
 - 原创
     - [荒野大镖客内置修改器RNT](https://mod.3dmgame.com/mod/147160)
