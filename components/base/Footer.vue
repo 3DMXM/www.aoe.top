@@ -2,8 +2,12 @@
 
 let friendChain = [
     {
-        name: '深沟导航',
+        name: '深沟主页',
         url: 'http://www.shyngo.cn/',
+    },
+    {
+        name: '沐晴夏阳',
+        url: 'https://www.1987619.com/'
     }
 ]
 

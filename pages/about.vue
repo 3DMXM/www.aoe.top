@@ -43,14 +43,16 @@ export default {
     name: 'about',
 }
 </script>
-<style lang='less' scoped>
+<style lang='less'>
 .about {
     padding: 10px;
 
     .markdown-body {
         background-color: transparent;
 
-
+        a {
+            color: #42b883;
+        }
     }
 }
 </style>

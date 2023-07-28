@@ -16,7 +16,7 @@ const { logo, lazy_img } = useMain()
                 <v-btn variant="text" to="/about" prepend-icon="mdi-information-outline">
                     关于小莫
                 </v-btn>
-                <v-btn variant="text" to="/donate" prepend-icon="mdi-gift-outline" color="#42b883">给小莫投食</v-btn>
+                <v-btn variant="text" to="/donate" prepend-icon="mdi-gift-outline" color="#42b883">投喂小莫</v-btn>
             </div>
         </div>
     </v-container>
