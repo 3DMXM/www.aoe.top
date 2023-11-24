@@ -7,7 +7,7 @@ let navItems = [
     { text: '博客园', to: 'https://blog.aoe.top' },
     { text: '云网盘', to: 'https://pan.aoe.top' },
     { text: '游戏库', to: 'https://game.aoe.top' },
-    { text: '云签到', to: 'https://tb.aoe.top' },
+    { text: '维基库', to: 'https://wiki.aoe.top' },
 ]
 
 </script>
