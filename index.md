@@ -24,10 +24,10 @@ hero:
 features:
   - title: 小莫网盘
     link: https://cloud.aoe.top/
-    details: 一个供所有人免费使用的不限速网盘, 注册账号即可获得 1T 的网盘空间, 可分享公开或私有链接, 
+    details: 现已关闭注册, 旧用户不受影响, 
   - title: 小莫图床
-    link: https://image.aoe.top/
-    details: 一个简易的图床, 使用OneDrive驱动, 带 api 上传功能
+    # link: https://image.aoe.top/
+    details: ~~一个简易的图床, 使用OneDrive驱动, 带 api 上传功能~~ 已关闭, 后续有机会重启项目
   - title: 短链生成
     link: https://s.aoe.top/
     details: 基于 short 的一个使用 Cloudflare Pages 创建的 URL 缩短器, 可缩短你分享的链接长度
