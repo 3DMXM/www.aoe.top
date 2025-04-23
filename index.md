@@ -24,7 +24,7 @@ hero:
 features:
   - title: 小莫网盘
     link: https://cloud.aoe.top/
-    details: 现已关闭注册, 旧用户不受影响, 
+    details: 网盘现已更新至 4.0 版本, 采用了全新的设计, 赞助用户可用 WebDAV 挂载、在线解压/压缩 等功能
   - title: 小莫图床
     # link: https://image.aoe.top/
     details: ~~一个简易的图床, 使用OneDrive驱动, 带 api 上传功能~~ 已关闭, 后续有机会重启项目
