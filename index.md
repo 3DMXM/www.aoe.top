@@ -25,13 +25,9 @@ features:
   - title: 小莫网盘
     link: https://cloud.aoe.top/
     details: 网盘现已更新至 4.0 版本, 采用了全新的设计, 赞助用户可用 WebDAV 挂载、在线解压/压缩 等功能
-  - title: 小莫图床
-    # link: https://image.aoe.top/
-    details: ~~一个简易的图床, 使用OneDrive驱动, 带 api 上传功能~~ 已关闭, 后续有机会重启项目
   - title: 短链生成
     link: https://s.aoe.top/
     details: 基于 short 的一个使用 Cloudflare Pages 创建的 URL 缩短器, 可缩短你分享的链接长度
-
   - title: 小莫的工具箱
     link: https://tools.aoe.top/
     details: 随心制作一些便利有用的工具
@@ -41,6 +37,9 @@ features:
   - title: 小莫的游戏库
     link: https://game.aoe.top/
     details: 是从 https://pan.aoe.top/Games/ 中分支出来的另一个游戏盘, 但由于某些问题, 该库已停止更新
+  - title: 塔罗牌
+    link: https://tarot.aoe.top/
+    details: 生命是一个无止境的展开的过程。如果我们愿意，它也是一个不断自我发现过程
 ---
 
 
