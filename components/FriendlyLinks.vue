@@ -18,7 +18,11 @@ const links = [
         <h3>友情链接</h3>
         <div class="links">
             <div class="links-list" v-for="link in links" :key="link.name">
-                <a :href="link.url" target="_blank" rel="noopener noreferrer">{{ link.name }}</a>
+                <a :href="link.url" target="_blank">{{ link.name }}</a>
+            </div>
+            <div class="links-list apply">
+                <a href="https://github.com/3DMXM/www.aoe.top/discussions/1" target="_blank"
+                    rel="noopener noreferrer">申请友链 + </a>
             </div>
         </div>
     </div>
@@ -45,6 +49,17 @@ export default {
 
                 &:hover {
                     color: #3e916b;
+                }
+            }
+
+            &.apply {
+
+                a {
+                    color: #47a9bb;
+
+                    &:hover {
+                        color: #49808a;
+                    }
                 }
             }
         }
