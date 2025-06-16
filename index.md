@@ -42,6 +42,8 @@ features:
     details: 生命是一个无止境的展开的过程。如果我们愿意，它也是一个不断自我发现过程
 ---
 
+<!-- 友情链接区块 -->
+<FriendlyLinks />
 
 
 <style>
@@ -65,3 +67,8 @@ features:
   }
 }
 </style>
+
+
+<script setup>
+import FriendlyLinks from './components/FriendlyLinks.vue'
+</script>
